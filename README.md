@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jarek-pacocha
 - 👀 I’m interested in web applications development, Machine Learning and AI implementations.
-- 🌱 I’m currently learning Python.
--  I’m open to collaborating on usefull applications of Python language.
+- 🌱 I’m currently learning Python and Google Cloud Platform (GCP).
+-  I’m open to collaborating on usefull applications of Python language as well as implementing cloud solutions.
 - 📫 How to reach me @jarek-pacocha on GH and LinkedIn.
