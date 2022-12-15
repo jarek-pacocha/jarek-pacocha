@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jarek-pacocha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=67)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jarek-pacocha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=68)
 ## Hi, I'm Jarek! :wave:
 
 ### I am a python developer and cloud engineer.
