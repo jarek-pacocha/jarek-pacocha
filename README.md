@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jarek-pacocha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=68)
 ## Hi, I'm Jarek! :wave:
 
-### I am a python developer and cloud engineer.
+### I am a python developer/cloud engineer.
 
 - :point_right:	I’m interested in web development, cloud solutions, DevOps and data engineering.
 - :hammer: I'm currently working on contributing to interesting Open Source projects.
-- :seedling:	I'm currenly also learning Google Cloud Platform (GCP).
+- :seedling:	I'm currenly also learning Google Cloud Platform (GCP) and SQL.
 - :handshake:	 I’m open to collaborating on usefull applications of Python language as well as implementing cloud driven solutions.  
 - 💻 As a proffesional I aspire to make things that improve lives so feel free to contact me if that's your goal as well.
 - :slightly_smiling_face:	Pronouns: He/Him
