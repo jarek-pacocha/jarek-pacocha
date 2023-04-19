@@ -7,7 +7,7 @@
 - :point_right:	I’m interested in Data, Cloud and DevOps. I find working in these areas challenging but extremely rewarding at the same time.
 - :handshake:	I'm also contributing to interesting Open Source projects to build my collaboration skills.
 - :hammer: I am looking forward to a career where I can use my skillset to the advantage of the company, fellow colleagues and the end users.
-- :earth_americas:	Fun fact: In my life I spent 5900hrs in the air which is 246days or 35weeks or 8months totalling 99 earth circumnavigations. 
+- :earth_americas:	Fun fact: In my life I spend 5900hrs in the air which is 246days or 35weeks or 8months totalling 99 earth circumnavigations. 
 
 ## The things I use:
 ![My Skills](https://skillicons.dev/icons?i=py,django,bootstrap,html,css,gcp,docker,git,github,vscode)
