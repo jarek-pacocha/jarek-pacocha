@@ -4,12 +4,12 @@
 
 ## I'm a Linux user working towards DevOps profficiency.
 
-- 💻 I'm a Linux user learning to become System Administrator.
+- 💻 I'm a Linux user with System Administration skills.
 - :point_right: I'm interested in Networking and I plan to get CCNA certified.
-- :cloud: Currently learning AWS and planning to get Cloud Practitioner Certified.
+- :cloud: Recently obtained an AWS Cloud Practitioner Certification.
 - :handshake: I'm also contributing to interesting Open Source projects to build my collaboration skills.
 - :hammer: I am looking forward to a career where I can use my skillset to the advantage of the company, fellow colleagues and the end users.
-- :earth_americas: Fun fact: In my life I spend over 6600hrs in the air which is 278days or 39weeks or over 9 months totalling 114 earth circumnavigations.
+- :earth_americas: Fun fact: In my life I spend over 6700hrs in the air which is 281days or 40weeks or over 9 months totalling 115 earth circumnavigations.
 
 ## The things I use:
 
